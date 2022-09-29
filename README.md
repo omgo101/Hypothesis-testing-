@@ -10,4 +10,6 @@ the maximum number of logically independent values, which are values that have t
 the number of independent values that can vary in an analysis without breaking any constraints. It is an essential idea that appears in many contexts throughout statistics including hypothesis tests, probability distributions, and linear regression. Learn how this fundamental concept affects the power and precision of your analysis  <br />
 it is used to learning model more 
 you are giving more information to learning the model <br />
-formula=n-k-1(where n is number of data point,k is no.independent variable)
+formula=n-k-1(where n is number of data point,k is no.independent variable) <br />
+![image](https://user-images.githubusercontent.com/79073189/193054068-66be8f4e-722a-4760-bf70-1a0f6565ff63.png) <br />
+One-tailed tests allow for the possibility of an effect in one direction. Two-tailed tests test for the possibility of an effect in two directions—positive and negative.

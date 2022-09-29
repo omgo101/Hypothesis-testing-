@@ -12,4 +12,8 @@ it is used to learning model more
 you are giving more information to learning the model <br />
 formula=n-k-1(where n is number of data point,k is no.independent variable) <br />
 ![image](https://user-images.githubusercontent.com/79073189/193054068-66be8f4e-722a-4760-bf70-1a0f6565ff63.png) <br />
-One-tailed tests allow for the possibility of an effect in one direction. Two-tailed tests test for the possibility of an effect in two directions—positive and negative.
+One-tailed tests allow for the possibility of an effect in one direction. Two-tailed tests test for the possibility of an effect in two directions—positive and negative.<br />
+#### what is p-values <br />
+The p-value is a number, calculated from a statistical test, that describes how likely you are to have found a particular set of observations if the null hypothesis were true.
+P > 0.05 is the probability that the null hypothesis is true. 1 minus the P value is the probability that the alternative hypothesis is true. A statistically significant test result (P ≤ 0.05) means that the test hypothesis is false or should be rejected. A P value greater than 0.05 means that no effect was observed.
+![image](https://user-images.githubusercontent.com/79073189/193055961-61c3f129-344b-4c30-9504-e6e2076c838e.png)

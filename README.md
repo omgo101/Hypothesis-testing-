@@ -23,3 +23,5 @@ P > 0.05 is the probability that the null hypothesis is true. 1 minus the P valu
 ![image](https://user-images.githubusercontent.com/79073189/193055961-61c3f129-344b-4c30-9504-e6e2076c838e.png)
 **differnce between p value and significance level** <br />
 P-Value is the odds that a result would be outside of your distribution whereas the level of significance denotes how confident you can be in your results. For example, if you have a p-value of .05 that means you have a 5% likelihood that whatever you're analyzing has a 5% chance to be outside of your normal distribution. A p-value of .05 also means that you're results are significant at the 95% level. To get your level of significance subtract your p-value from 1. Usually for results to be statistically sound (and this depends on your industry) you'd want a p-value of at least .05 to .01.
+**when to use one tail test and two tail test** <br />
+if you want to find out any differnce then two tail test if you want to find less than or more than then one tail test

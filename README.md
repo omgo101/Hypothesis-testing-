@@ -16,8 +16,10 @@ One-tailed tests allow for the possibility of an effect in one direction. Two-ta
 #### what is p-values <br />
 In simple terms, a p-value is the probability that the null hypothesis is true. It is also the level of statistical significance and is expressed between 0 and 1. If the p-value below the alpha level (for eg. a level of 0.05) then we will reject the null hypothesis.<br />
 for example  p-value means that there is 1% probability for accepting (considering as true) the null hypothesis  <br />
-The p-value is a number, calculated from a statistical test, that describes how likely you are to have found a particular set of observations if the null hypothesis were true.
-P > 0.05 is the probability that the null hypothesis is true. 1 minus the P value is the probability that the alternative hypothesis is true. A statistically significant test result (P ≤ 0.05) means that the test hypothesis is false or should be rejected. A P value greater than 0.05 means that no effect was observed.
+The p-value is a number, calculated from a statistical test, that describes how likely you are to have found a particular set of observations if the null hypothesis were true. <br />
+P > 0.05 is the probability that the null hypothesis is true. 1 minus the P value is the probability that the alternative hypothesis is true. A statistically significant test result (P ≤ 0.05) means that the test hypothesis is false or should be rejected. A P value greater than 0.05 means that no effect was observed.<br />
+![image](https://user-images.githubusercontent.com/79073189/200766769-e8af198b-2ef6-48d2-92f0-8a8894924b52.png)
+![image](https://user-images.githubusercontent.com/79073189/200767269-bbc6ace9-60ea-4ef3-9b49-d654e3bc083a.png)
 ![image](https://user-images.githubusercontent.com/79073189/193055961-61c3f129-344b-4c30-9504-e6e2076c838e.png)
 **differnce between p value and significance level** <br />
 P-Value is the odds that a result would be outside of your distribution whereas the level of significance denotes how confident you can be in your results. For example, if you have a p-value of .05 that means you have a 5% likelihood that whatever you're analyzing has a 5% chance to be outside of your normal distribution. A p-value of .05 also means that you're results are significant at the 95% level. To get your level of significance subtract your p-value from 1. Usually for results to be statistically sound (and this depends on your industry) you'd want a p-value of at least .05 to .01.
